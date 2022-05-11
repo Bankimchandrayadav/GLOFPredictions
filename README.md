@@ -1,2 +1,6 @@
 # GLOFPredictions
 Predicting Glacial Lake Outburst Flood scenarios over Zackenberg river, Greenland through Machine Learning
+- Amidst the severe flying conditions over Zackenberg river, Greenland, and the consequential paucity of high resolution Unmanned Aerial Vehicle (UAV) data, a high-resolution dataset (∼3.5 cm × 3.5 cm) covering the glacial lake outburst flood (GLOF) event from August 06-08, 2017, has been recently made publicly available. 
+- An examination of the pre and post flood data through machine learning techniques provides the inter-dependency relationship between the underlying topographic variables and assists in forecasting post-flood changes based on pre-flood conditions. The predicted conditions have a corelation percentage of >90% with the on-site conditions. 
+- The Greenland ice sheet has been showing increasingly sensitive environmental responses to the recent warming conditions, and such a proactive analysis can stride towards the essential concerns of sustainable development goals. Open-source tools - python 3.9.5 and QGIS 3.18 were employed in processing of all the data in this study.
+- Associated dataset is taken from the research paper: https://zenodo.org/record/4495282
